@@ -10,6 +10,8 @@ To obtain the files to this port, open Steam Console and type or paste the comma
 download_depot 1358610 1358612 7027764266055537486
 The files location will be shown after complete. Copy the data.win file from here to the maketheburger/gamedata folder.
 
+## IF YOU HAVE ANY ISSUES, POST IT IN THE ISSUES TAB ON GITHUB SAYING YOUR CFW ALONGSIDE PATCHLOG.TXT (IF AVAILIABLE) AND LOG.TXT ## 
+
 ## Controls
 
 | Button | Action |
